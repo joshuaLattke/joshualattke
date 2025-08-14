@@ -19,7 +19,7 @@ Desarrollador en formación con pasión por crear, aprender y mejorar cada día.
 ---
 
 ## 📬 Conéctate conmigo
-- ✉️ Email: tu-email@ejemplo.com
+- ✉️ Email: joshualattke@hotmail.com
 - 🌐 GitHub: [joshuaLattke](https://github.com/joshuaLattke)
 
 ---
