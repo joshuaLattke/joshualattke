@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Joshua Lattke
 
-<!--
-**joshuaLattke/joshualattke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en formación con pasión por crear, aprender y mejorar cada día. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Lenguajes que manejo
+
+| Lenguaje  | Nivel |
+|-----------|-------|
+| **Java**  | ████████████░░░░░░░░ 60% |
+| **HTML**  | ██████████████░░░░░░ 70% |
+| **CSS**   | ██████████░░░░░░░░░░ 50% |
+
+---
+
+> 💡 Los porcentajes son aproximados según mi experiencia actual, y sigo aprendiendo constantemente.
+
+---
+
+## 📬 Conéctate conmigo
+- ✉️ Email: tu-email@ejemplo.com
+- 🌐 GitHub: [joshuaLattke](https://github.com/joshuaLattke)
+
+---
